@@ -462,11 +462,11 @@
   },
   "Transparency" : 0,
   "Ansi 2 Color" : {
-    "Red Component" : 0.078431372549019607,
+    "Red Component" : 0.443450927734375,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.95686274509803926,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.58431372549019611
+    "Green Component" : 0.7613372802734375
   },
   "Custom Directory" : "No",
   "Ansi 4 Color" : {
