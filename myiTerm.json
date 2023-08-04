@@ -46,9 +46,11 @@
   "Non-ASCII Anti Aliased" : true,
   "Use Bright Bold" : true,
   "Ansi 10 Color" : {
-    "Green Component" : 1,
-    "Red Component" : 0.3333333432674408,
-    "Blue Component" : 0.3333333432674408
+    "Red Component" : 0.40392156862745099,
+    "Color Space" : "sRGB",
+    "Blue Component" : 1,
+    "Alpha Component" : 1,
+    "Green Component" : 0.81568627450980391
   },
   "Icon" : 0,
   "Ambiguous Double Width" : false,
