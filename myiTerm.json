@@ -45,11 +45,11 @@
   "Rows" : 25,
   "Default Bookmark" : "No",
   "Ansi 5 Color" : {
-    "Red Component" : 0.74509803921568629,
+    "Red Component" : 0,
     "Color Space" : "sRGB",
-    "Blue Component" : 1,
+    "Blue Component" : 0.7803921568627451,
     "Alpha Component" : 1,
-    "Green Component" : 1
+    "Green Component" : 0.77254901960784317
   },
   "Automatically Log" : true,
   "Cursor Guide Color" : {
