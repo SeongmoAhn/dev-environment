@@ -45,11 +45,11 @@
   "Rows" : 25,
   "Default Bookmark" : "No",
   "Ansi 5 Color" : {
-    "Red Component" : 0.49411764705882355,
+    "Red Component" : 0.74509803921568629,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.78823529411764703,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.8784313725490196
+    "Green Component" : 1
   },
   "Automatically Log" : true,
   "Cursor Guide Color" : {
@@ -461,11 +461,11 @@
   },
   "Horizontal Spacing" : 1,
   "Ansi 3 Color" : {
-    "Red Component" : 0.74835205078125,
+    "Red Component" : 0.68627450980392157,
     "Color Space" : "sRGB",
     "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 1
+    "Green Component" : 0.50588235294117645
   },
   "Custom Directory" : "No",
   "Ansi 1 Color" : {
