@@ -495,10 +495,10 @@
     "Green Component" : 0.35915294289588928
   },
   "Ansi 5 Color" : {
-    "Red Component" : 0,
+    "Red Component" : 0.44313725490196076,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.7803921568627451,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.77254901960784317
+    "Green Component" : 0.76078431372549016
   }
 }
