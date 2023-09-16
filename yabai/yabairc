@@ -30,3 +30,6 @@ yabai -m rule --add app="^계산기$" manage=off
 yabai -m rule --add app="^Karabiner-Elements$" manage=off
 yabai -m rule --add app="^스티커$" manage=off
 yabai -m rule --add app="^카카오톡$" manage=off
+yabai -m rule --add app="^finder$" manage=off
+# yabai -m rule --add app="^Notion$" manage=off
+# yabai -m rule --add app="^Goodnotes$" manage=off
